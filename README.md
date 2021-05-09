@@ -18,3 +18,5 @@ if (isAwesome){
 [GitHub](http://github.com)
 
 ![GitHub Logo](/bb8.jpg)
+
+# Zmiany wprowadzone przez przegladarke
