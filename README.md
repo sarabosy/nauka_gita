@@ -1,4 +1,4 @@
-#Zajecia z GIT'a
+# Zajecia z GIT'a
 
 <h2>Nowa lista:
 <h6>
@@ -9,3 +9,5 @@
   * Debian
 
 [GitHub](http://github.com)
+
+![GitHub Logo](/bb8.jpg)
