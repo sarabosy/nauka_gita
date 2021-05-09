@@ -20,3 +20,6 @@ if (isAwesome){
 ![GitHub Logo](/bb8.jpg)
 
 # Zmiany wprowadzone przez przegladarke
+
+# Kolejny upgrade na branch'u
+
